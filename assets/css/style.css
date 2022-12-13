@@ -1,0 +1,55 @@
+.main_img {
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+  object-fit: cover;
+}
+h1 {
+  font-size: 44px;
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.contact_info {
+  text-align: center;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+
+.middle_info {
+  border-left: 0.1em solid gray;
+  border-right: 0.1em solid gray;
+  padding-right: 0.2em;
+  margin-top: 10px;
+}
+
+.unique_info {
+  font-size: 26px;
+  text-align: left;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-top: 20px;
+}
+
+article {
+  margin-left: 50px;
+  margin-right: 10em;
+}
+
+h2 {
+  font-size: 36px;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+
+h3 {
+  margin: auto;
+}
+
+.content {
+  font-size: 16px;
+}
